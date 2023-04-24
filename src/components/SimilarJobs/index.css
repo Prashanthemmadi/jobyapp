@@ -1,0 +1,15 @@
+.similar-list {
+  background-color: #64748b;
+  padding: 20px;
+  margin-bottom: 20px;
+  margin-right: 20px;
+  border-radius: 15px;
+  max-width: 500px;
+}
+.similar-logo {
+  height: 70px;
+  margin-right: 10px;
+}
+.similar-logo-card {
+  display: flex;
+}

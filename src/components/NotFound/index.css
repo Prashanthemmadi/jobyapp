@@ -1,0 +1,17 @@
+.not-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #000000;
+  height: 100vh;
+  padding: 10px;
+}
+.not-heading {
+  color: #ffffff;
+  font-family: 'Roboto';
+}
+.not-para {
+  color: #ffffff;
+  font-family: 'Roboto';
+}
